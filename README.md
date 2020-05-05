@@ -1,9 +1,9 @@
 # ESXBrasilRP
 
-Crier um arquivo com nome packege.json
-Adicione isto.
+Crier um arquivo com nome packege.json<br>
+Adicione isto.<br>
 
-```lua
+```
 {
   "name": "esxbrasil-launcher",
   "version": "1.0.2", //aqui você muda a versão do launcher
@@ -85,3 +85,4 @@ Adicione isto.
   }
 }
 ```
+<br>
