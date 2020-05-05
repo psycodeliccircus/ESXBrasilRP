@@ -117,3 +117,10 @@ function clientStartRProxy() {
 }
 
 clientConnect()
+
+/*
+Project Name: ESXBrasil Launcher (esxbrasil.online)
+Language Used: NodeJS
+Developer/s: RenildoMarcio
+All Reserve Rights ESXBrasil 2020 - 2021
+*/
