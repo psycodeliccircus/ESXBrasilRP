@@ -2,8 +2,8 @@
 
 # Programas necessarios
 
-Node.js : https://nodejs.org/en/
-Visual Studio Code : https://code.visualstudio.com/download
+Node.js : https://nodejs.org/en/<br>
+Visual Studio Code : https://code.visualstudio.com/download<br>
 
 # Configuração do launcher
 
