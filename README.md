@@ -1,6 +1,6 @@
 # ESXBrasilRP
 
-Crier um arquivo com nome packege.json<br>
+Crier um arquivo com nome package.json<br>
 Adicione isto.<br>
 
 ```
@@ -84,6 +84,24 @@ Adicione isto.<br>
     "udp-proxy": "^1.2.0"
   }
 }
+```
+Crier tambem o arquivo app-update.yml
+```
+owner: psycodeliccircus //coloque seu usuario do github aqui
+repo: ESXBrasilRP //coloque aqui o repositorio do launcher no seu github
+provider: github  // não mexa nisto
+releaseType: release  // não mexa nisto
+token: 00000000000000000 // aqui sua token do github seu. link: https://github.com/settings/tokens/new
+updaterCacheDirName: esxbrasil-launcher //coloque o nome do update mude somente o esxbrasil para o seu nao tire o -launcher
+```
+Crier tambem o arquivo dev-app-update.yml
+```
+owner: psycodeliccircus //coloque seu usuario do github aqui
+repo: ESXBrasilRP //coloque aqui o repositorio do launcher no seu github
+provider: github  // não mexa nisto
+releaseType: release  // não mexa nisto
+token: 00000000000000000 // aqui sua token do github seu. link: https://github.com/settings/tokens/new
+updaterCacheDirName: esxbrasil-launcher //coloque o nome do update mude somente o esxbrasil para o seu nao tire o -launcher
 ```
 <br>
 Nesta versão não foi adicionado sistema de anti-cheat.<br>
