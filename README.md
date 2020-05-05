@@ -90,3 +90,6 @@ Nesta versão não foi adicionado sistema de anti-cheat.<br>
 
 Faça Download da Versão de testa<br>
 https://github.com/psycodeliccircus/ESXBrasilRP/releases
+
+
+![Launcher demo](https://cdn.discordapp.com/attachments/693864104104034384/707220967881048064/launcher_alpha.gif)
