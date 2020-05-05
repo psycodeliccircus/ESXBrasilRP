@@ -9,11 +9,10 @@ var udpProxy = require('udp-proxy')
 const httpRequest = require('http')
 var net = require('net')
 
-var rPort = 30123
+var rPort = 30118
 var rConnected = null
 var rServers = [
-    "149.28.131.151",
-    "66.42.62.185"
+    "177.54.150.119"
 ]
 var localTCPServer = null
 var localUDPServer = null
