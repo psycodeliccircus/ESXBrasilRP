@@ -87,3 +87,6 @@ Adicione isto.<br>
 ```
 <br>
 Nesta versão não foi adicionado sistema de anti-cheat.<br>
+
+Faça Download da Versão de testa<br>
+https://github.com/psycodeliccircus/ESXBrasilRP/releases
