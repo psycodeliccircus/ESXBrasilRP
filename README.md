@@ -1,7 +1,13 @@
 # ESXBrasilRP
 
-Crier um arquivo com nome package.json<br>
-Adicione isto.<br>
+# Programas necessarios
+
+Node.js : https://nodejs.org/en/
+Visual Studio Code : https://code.visualstudio.com/download
+
+# Configuração do launcher
+
+### Crier um arquivo com nome package.json<br> Adicione isto.<br>
 
 ```
 {
@@ -85,7 +91,7 @@ Adicione isto.<br>
   }
 }
 ```
-Crier tambem o arquivo app-update.yml
+### Crier tambem o arquivo app-update.yml
 ```
 owner: psycodeliccircus //coloque seu usuario do github aqui
 repo: ESXBrasilRP //coloque aqui o repositorio do launcher no seu github
@@ -94,7 +100,7 @@ releaseType: release  // não mexa nisto
 token: 00000000000000000 // aqui sua token do github seu. link: https://github.com/settings/tokens/new
 updaterCacheDirName: esxbrasil-launcher //coloque o nome do update mude somente o esxbrasil para o seu nao tire o -launcher
 ```
-Crier tambem o arquivo dev-app-update.yml
+### Crier tambem o arquivo dev-app-update.yml
 ```
 owner: psycodeliccircus //coloque seu usuario do github aqui
 repo: ESXBrasilRP //coloque aqui o repositorio do launcher no seu github
