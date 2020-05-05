@@ -6,7 +6,7 @@ Adicione isto.<br>
 ```
 {
   "name": "esxbrasil-launcher",
-  "version": "1.0.2", //aqui você muda a versão do launcher
+  "version": "x.x.x", //aqui você muda a versão do launcher
   "description": "ESXBrasil Launcher",
   "main": "index.js",
   "scripts": {
@@ -86,3 +86,4 @@ Adicione isto.<br>
 }
 ```
 <br>
+Nesta versão não foi adicionado sistema de anti-cheat.<br>
