@@ -1,8 +1,8 @@
 /*
-Project Name: Aurora Collective Launcher (aurorav.net)
+Project Name: ESXBrasil Launcher (esxbrasil.online)
 Language Used: NodeJS
-Developer/s: Curt (curt.sg / curtcreation.net)
-All Reserve Rights Curt Creation 2020 - 2021
+Developer/s: RenildoMarcio
+All Reserve Rights ESXBrasil 2020 - 2021
 */
 var tcpProxy = require("node-tcp-proxy")
 var udpProxy = require('udp-proxy')
