@@ -1,262 +1,262 @@
-Privacy Statement
+Declaração de privacidade
 
-1. Overview
+1. Visão Geral
 
-ESXBrasilRP and its subsidiaries (collectively, "ESXBrasil" or ESXBrasilX” or "we" or "our") respect your privacy. This privacy policy (this "Policy") informs you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used.
+O ESXBrasilRP e suas subsidiárias (coletivamente, "ESXBrasil" ou ESXBrasilX "ou" nós "ou" nosso ") respeitam sua privacidade. Esta política de privacidade (esta "Política") informa você sobre nossas práticas de privacidade e as escolhas que você pode fazer sobre a maneira como suas informações são coletadas online e como essas informações são usadas.
 
-This Policy applies to all websites, servers and services owned or provided by ESXBrasil (collectively, "ESXBrasil Sites"). ESXBrasil may add new sites, domain names or services from time to time. As explained below, this Policy applies only to websites owned and services maintained by ESXBrasil and not to websites or services to which links may be provided on ESXBrasil Sites.
+Esta Política se aplica a todos os sites, servidores e serviços de propriedade ou fornecidos pela ESXBrasil (coletivamente, "Sites ESXBrasil"). O ESXBrasil pode adicionar novos sites, nomes de domínio ou serviços de tempos em tempos. Conforme explicado abaixo, esta Política se aplica somente a sites de propriedade e serviços mantidos pela ESXBrasil e não a sites ou serviços aos quais os links possam ser fornecidos nos sites da ESXBrasil.
 
-BY USING THIS SITE, OR ANY PRODUCT OR SERVICE OFFERED ON THIS SITE, YOU CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF INFORMATION AS DESCRIBED IN THIS POLICY.
+AO USAR ESTE SITE, OU QUALQUER PRODUTO OU SERVIÇO OFERECIDO NESTE SITE, VOCÊ CONCORDA COM A COLEÇÃO, O USO E A DIVULGAÇÃO DE INFORMAÇÕES, COMO DESCRITAS NESTA POLÍTICA.
 
-Collection of Personal Information ESXBrasil collects personal information from users of ESXBrasil Sites in connection with the access and use of the various products and services available to you on ESXBrasil Sites. These products and services may include: (i) registration as a ESXBrasil user and/or subscribing to ESXBrasil Donator; (ii) use of the ESXBrasilX Client; (iii) registration for competitions and events; (iv) registration for receipt of communications like email updates and newsletters; (v) registration for certain online community services and tools like message boards, chat rooms, forums, news groups or other community services; (vi) user surveys and polls; (vii) participation in sweepstakes, contests or promotions by sponsored by ESXBrasil or third parties; and (viii) purchasing products and services.
+Coleta de informações pessoais O ESXBrasil coleta informações pessoais dos usuários dos sites ESXBrasil em conexão com o acesso e o uso dos vários produtos e serviços disponíveis para você nos sites ESXBrasil. Esses produtos e serviços podem incluir: (i) registro como usuário do ESXBrasil e / ou assinatura do doador do ESXBrasil; (ii) uso do cliente ESXBrasilX; (iii) inscrição para competições e eventos; (iv) registro para recebimento de comunicações, como atualizações por email e boletins; (v) registro de certos serviços e ferramentas da comunidade online, como quadros de mensagens, salas de bate-papo, fóruns, grupos de notícias ou outros serviços da comunidade; (vi) pesquisas e pesquisas com usuários; (vii) participação em sorteios, concursos ou promoções patrocinados pela ESXBrasil ou por terceiros; e (viii) compra de produtos e serviços.
 
-A. Types of Information Collected. ESXBrasil collects information you provide to us. This may include your name, address, ZIP code, telephone number, email address, user IDs and passwords, age and date of birth, gender, billing and transaction information, product and service preferences and contact preferences. In certain instances, you may also submit similar information about other people (such as when shipping products purchased on ESXBrasil Sites).
+A. Tipos de informações coletadas. O ESXBrasil coleta informações que você nos fornece. Isso pode incluir seu nome, endereço, CEP, número de telefone, endereço de e-mail, IDs e senhas de usuário, idade e data de nascimento, sexo, informações de cobrança e transação, preferências de produtos e serviços e preferências de contato. Em certos casos, você também pode enviar informações semelhantes sobre outras pessoas (como ao enviar produtos comprados nos sites ESXBrasil).
 
-B. Automatic Data Collection. In addition to the information you provide us, ESXBrasil may also automatically collect information regarding your use of ESXBrasil Sites. Our automatic data collection may include:
+B. Coleta Automática de Dados. Além das informações que você nos fornece, a ESXBrasil também pode coletar automaticamente informações sobre seu uso dos Sites da ESXBrasil. Nossa coleta automática de dados pode incluir:
 
-1. Cookies, web beacons or other commonly used website analytics tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language and access times. These tools may also collect information about your Internet Protocol (IP) address, clickstream behavior (i.e., the pages you view, the links you click and other actions you take in connection with ESXBrasil Sites) and products and services you use.
+1. Cookies, web beacons ou outras ferramentas de análise de sites comumente usadas. Essas ferramentas coletam certas informações padrão que o navegador envia ao nosso site, como o tipo do navegador, o idioma e os horários de acesso. Essas ferramentas também podem coletar informações sobre o seu endereço IP, o comportamento do fluxo de cliques (ou seja, as páginas que você visualiza, os links em que clica e outras ações realizadas em conexão com os sites ESXBrasil) e os produtos e serviços que você usa.
 
-2. Pixel tags, web beacons or other commonly used email analytics tools. These tools may collect information when you open an email or click a link contained in an email or on ESXBrasil Sites.
+2. Tags de pixel, web beacons ou outras ferramentas de análise de e-mail comumente usadas. Essas ferramentas podem coletar informações quando você abre um email ou clica em um link contido em um email ou nos Sites ESXBrasil.
 
-C. Anti-cheat functionality in the ESXBrasilX Client. Certain information regarding your computer and software it contains is required for effective operation of our anti-cheat services. By using the ESXBrasilX Client, you consent to the collection and analysis of information from your computer that ESXBrasil deems reasonably necessary to identify and prevent the use of cheat software, files used to gain an unfair advantage, and to enforce bans. This information collection is not strictly limited to when you are logged in to the ESXBrasilX Client. Information analyzed or collected by the ESXBrasilX Client may include hardware, network and software identifiers; running programs; system configuration information; files or data suspected of being used to cheat or gain an unfair advantage; or screenshots while you are logged in and playing a game through the ESXBrasilX Client.
+C. Funcionalidade anti-fraude no cliente ESXBrasilX. Certas informações sobre o seu computador e software que ele contém são necessárias para a operação eficaz de nossos serviços anti-fraude. Ao usar o ESXBrasilX Client, você consente com a coleta e análise de informações do seu computador que o ESXBrasil considere razoavelmente necessárias para identificar e impedir o uso de softwares fraudulentos, arquivos usados ​​para obter uma vantagem injusta e aplicar proibições. Essa coleta de informações não é estritamente limitada a quando você está conectado ao ESXBrasilX Client. As informações analisadas ou coletadas pelo ESXBrasilX Client podem incluir identificadores de hardware, rede e software; executando programas; informações de configuração do sistema; arquivos ou dados suspeitos de serem usados ​​para trapacear ou obter uma vantagem injusta; ou capturas de tela enquanto estiver conectado e jogando um jogo através do ESXBrasilX Client.
 
-D. Commingled Information. ESXBrasil may also collect information from commercially available sources that it deems credible. Such information may include your name, address, email address and demographic data. The information ESXBrasil collects from its commercial sources may be used along with the information ESXBrasil collects when you visit ESXBrasil Sites. For example, ESXBrasil may compare the geographic information acquired from commercial sources with your IP address to derive your general geographic area.
+D. Informações Misturadas. O ESXBrasil também pode coletar informações de fontes disponíveis comercialmente que julgar credíveis. Essas informações podem incluir seu nome, endereço, endereço de e-mail e dados demográficos. As informações que o ESXBrasil coleta de suas fontes comerciais podem ser usadas junto com as informações que o ESXBrasil coleta quando você visita os sites da ESXBrasil. Por exemplo, o ESXBrasil pode comparar as informações geográficas adquiridas de fontes comerciais com o seu endereço IP para derivar sua área geográfica geral.
 
-E. Community Tools. From time to time, ESXBrasil may make message boards, chat rooms, forums, news groups and other community tools available to you on ESXBrasil Sites. Please keep in mind that whenever you voluntarily disclose personal information in these public areas, your information becomes public information and can be viewed and used by ESXBrasil and others.
+E. Ferramentas da comunidade. De tempos em tempos, o ESXBrasil pode disponibilizar quadros de mensagens, salas de bate-papo, fóruns, grupos de notícias e outras ferramentas da comunidade nos sites da ESXBrasil. Lembre-se de que sempre que você divulga voluntariamente informações pessoais nessas áreas públicas, essas informações se tornam informações públicas e podem ser visualizadas e usadas pela ESXBrasil e outras pessoas.
 
-F. Purpose for data collection. Data is collected for business requirements including the provisioning of ESXBrasil services and its functions and contents, answering contact requests and communicating with users, security measures, and audience measurement and marketing.
+F. Objetivo da coleta de dados. Os dados são coletados para requisitos de negócios, incluindo o provisionamento dos serviços ESXBrasil e suas funções e conteúdos, respondendo a solicitações de contato e comunicação com usuários, medidas de segurança e medição e marketing de público.
 
-2. How We Use Your Personal Information
+2. Como usamos suas informações pessoais
 
-We use the personal information you provide to us (i) in the manner described in this Policy, (ii) to improve and customize this site and the products and services offered to you, and (iii) as directed by you as indicated by your use of the products and services offered on this site. For example, we may use your personal information in connection with the following:
+Usamos as informações pessoais que você nos fornece (i) da maneira descrita nesta Política, (ii) para melhorar e personalizar este site e os produtos e serviços oferecidos a você, e (iii) conforme indicado por você, conforme indicado pelo seu uso dos produtos e serviços oferecidos neste site. Por exemplo, podemos usar suas informações pessoais em conexão com o seguinte:
 
-A. Creation of membership accounts;
-B. Detection and prevention of cheats
-C. Enforce bans;
-D. Offers to participate in competitions and event;
-E. Delivery of email updates and newsletters;
-F. Communications of offers for promotions, sweepstakes and contests;
-G. Invitations to participate in user surveys and polls;
-H. Execution of purchases of products and services; and
-I. Providing software updates and interactive materials.
+A. Criação de contas de membros;
+B. Detecção e prevenção de fraudes
+C. Impor proibições;
+D. Ofertas para participar de competições e eventos;
+E. Entrega de atualizações por email e boletins;
+F. Comunicações de ofertas de promoções, sorteios e concursos;
+G. Convites para participar de pesquisas e pesquisas com usuários;
+H. Execução de compras de produtos e serviços; e
+I. Fornecer atualizações de software e materiais interativos.
 
-We may also use your personal information to contact you offline concerning the products and services offered on this site. You are able to opt out of communication at any time by using the “unsubscribe” feature within the communication you receive, or by revoking consent to our services.
+Também podemos usar suas informações pessoais para contatá-lo offline sobre os produtos e serviços oferecidos neste site. Você pode desativar a comunicação a qualquer momento, usando o recurso "cancelar inscrição" na comunicação que você recebe ou revogando o consentimento de nossos serviços.
 
-3. Sharing of Personal Information
+3. Compartilhamento de informações pessoais
 
-ESXBrasil will not sell, rent or lease the personal information you provide. ESXBrasil will only share your personal information:
+A ESXBrasil não venderá, alugará ou alugará as informações pessoais que você fornecer. O ESXBrasil compartilhará apenas suas informações pessoais:
 
-A. With entities owned or controlled by ESXBrasil;
-B. With your consent;
-C. With persons or entities engaged by ESXBrasil to carry out or fulfill ESXBrasil operations;
-D. In connection with a merger, acquisition, reorganzization or sale of assets by ESXBrasil;
-E. As required by a duly authorized request from a government authority, to comply with any law, regulation, warrant, subpoena or order from a court or governmental authority, and to help prevent or investigate suspected fraud, harassment or violation of any law, rule, regulation, ESXBrasil policy or ESXBrasil terms and conditions; and
-F. As otherwise stated in this Policy.
+A. Com entidades pertencentes ou controladas pela ESXBrasil;
+B. Com o seu consentimento;
+C. Com pessoas ou entidades contratadas pela ESXBrasil para realizar ou executar operações da ESXBrasil;
+D. Em conexão com uma fusão, aquisição, reorganização ou venda de ativos pela ESXBrasil;
+E. Conforme exigido por uma solicitação devidamente autorizada de uma autoridade governamental, para cumprir qualquer lei, regulamento, mandado, intimação ou ordem de um tribunal ou autoridade governamental e para ajudar a prevenir ou investigar suspeitas de fraude, assédio ou violação de qualquer lei, regra, regulamento, política da ESXBrasil ou termos e condições da ESXBrasil; e
+F. Conforme indicado de outra forma nesta Política.
 
-4. Use and Disclosure of Anonymous Information
+4. Uso e divulgação de informações anônimas
 
-We may collect certain non-personally identifiable information (i.e., generic information that does not identify you personally) when you visit any ESXBrasil Site. We may use non-personally identifiable information that we collect to improve the design and content of ESXBrasil Sites and to enable us to personalize the products and services offered on ESXBrasil Sites. We may also aggregate non-personally identifiable information collected in a manner which does not identify any individual. We reserve the right to use this information in any manner we deem appropriate.
+Podemos coletar certas informações não pessoalmente identificáveis ​​(ou seja, informações genéricas que não o identificam pessoalmente) quando você visita qualquer site da ESXBrasil. Podemos usar informações de identificação não pessoal que coletamos para melhorar o design e o conteúdo dos Sites ESXBrasil e para nos permitir personalizar os produtos e serviços oferecidos nos Sites ESXBrasil. Também podemos agregar informações não pessoais identificáveis ​​coletadas de uma maneira que não identifique nenhum indivíduo. Reservamo-nos o direito de usar essas informações da maneira que julgarmos apropriada.
 
-5. Children Under 13
+5. Crianças menores de 13 anos
 
-ESXBrasil Sites are not directed to children under the age of 13. ESXBrasil Sites prohibit registration by, and ESXBrasil will not knowingly collect personally identifiable information from, anyone under the age of 13. If you believe ESXBrasil has collected personal information about your child, you may contact us at the address set forth below to request removal of such information.
+Os sites ESXBrasil não são direcionados a crianças com menos de 13 anos. Os sites ESXBrasil proíbem o registro e a ESXBrasil não coleta conscientemente informações de identificação pessoal de qualquer pessoa com menos de 13 anos. Se você acredita que a ESXBrasil coletou informações pessoais sobre seu filho, você pode entrar em contato conosco no endereço estabelecido abaixo para solicitar a remoção de tais informações.
 
-6. Links to Third Party Sites
+6. Links para sites de terceiros
 
-ESXBrasil Sites may include links to third party websites or services. ESXBrasil does not control such third party sites and their privacy practices are not covered by this policy. The presence of a link on ESXBrasil Sites does not constitute an endorsement or representation regarding any third party website or service.
+Os sites ESXBrasil podem incluir links para sites ou serviços de terceiros. A ESXBrasil não controla esses sites de terceiros e suas práticas de privacidade não são cobertas por esta política. A presença de um link nos sites ESXBrasil não constitui um endosso ou representação sobre qualquer site ou serviço de terceiros.
 
-7. Information Storage and Security
+7. Armazenamento e segurança de informações
 
-The protection of your personal information is important to ESXBrasil. To prevent unauthorized access or disclosure of this information, ESXBrasil utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect. However, no system can ever be fully protected against every possible hazard and we cannot guarantee that communications between you and us or the information stored on ESXBrasil Sites or our servers (or those of our agents and service providers) will be completely free from unauthorized access and disclosure and your use of any ESXBrasil Site demonstrates your assumption of this risk.
+A proteção de suas informações pessoais é importante para a ESXBrasil. Para impedir o acesso não autorizado ou a divulgação dessas informações, a ESXBrasil utiliza procedimentos físicos, técnicos e administrativos adequados para proteger as informações que coletamos. No entanto, nenhum sistema pode ser totalmente protegido contra todos os perigos possíveis e não podemos garantir que as comunicações entre você e nós ou as informações armazenadas nos Sites ESXBrasil ou nossos servidores (ou os de nossos agentes e provedores de serviços) estejam completamente livres de acesso não autorizado e a divulgação e o uso de qualquer site da ESXBrasil demonstram sua assunção desse risco.
 
-8. Your Choices
+8. Suas escolhas
 
-ESXBrasil provides you with the opportunity to choose and alter your preferences regarding the communications you receive from us. You will be provided with the opportunity to indicate whether you want to receive general communications about products, services, special offers or invitations to participate in various programs. You may opt out of receiving these general communications by using one of the following methods: (i) select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each communication, or (ii) write to ESXBrasil at the address below. Be sure to provide your name, email and postal address, and specific relevant information about your privacy preferences. Subscription communications may include email newsletters and updates expressly requested by you. After you request such communications, you may opt out of receiving them by using one of the following methods: (i) select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication, or (ii) return to the Web page(s) where you originally requested such services and follow the opt-out instructions.
+O ESXBrasil oferece a você a oportunidade de escolher e alterar suas preferências em relação às comunicações que você recebe de nós. Você terá a oportunidade de indicar se deseja receber comunicações gerais sobre produtos, serviços, ofertas especiais ou convites para participar de vários programas. Você pode optar por não receber essas comunicações gerais usando um dos métodos a seguir: (i) selecione o link "cancelar a inscrição" ou "cancelar a inscrição" por email, ou siga as instruções de exclusão incluídas em cada comunicação ou (ii) escreva para ESXBrasil no endereço abaixo. Certifique-se de fornecer seu nome, email e endereço postal e informações relevantes específicas sobre suas preferências de privacidade. As comunicações por assinatura podem incluir boletins por e-mail e atualizações expressamente solicitadas por você. Depois de solicitar essas comunicações, você pode optar por não recebê-las usando um dos seguintes métodos: (i) selecione o link "cancelar a inscrição" ou "cancelar a inscrição" do email ou siga as instruções de exclusão incluídas em cada comunicação de assinatura, ou (ii) retorne às páginas da Web em que você originalmente solicitou esses serviços e siga as instruções de exclusão.
 
-You may change or edit information you have provided as part of your user profile by logging in to your ESXBrasil account and changing the information. You may export and delete your user profile by logging into your ESXBrasil account accessing your privacy settings. You may revoke consent at any time by logging into your ESXBrasil account and accessing your privacy settings.
+Você pode alterar ou editar as informações que você forneceu como parte do seu perfil de usuário fazendo login na sua conta ESXBrasil e alterando as informações. Você pode exportar e excluir seu perfil de usuário fazendo login na sua conta ESXBrasil acessando suas configurações de privacidade. Você pode revogar o consentimento a qualquer momento entrando na sua conta ESXBrasil e acessando suas configurações de privacidade.
 
-9. International Users
+9. Usuários Internacionais
 
-If you are visiting this site from a location outside Singapore, your connection will be through servers located in the Singapore and all information you provide will be processed and maintained in our web servers and internal systems located within Singapore. By using this site, you authorize the export of personal information to Singapore and its storage and use as specified above.
+Se você estiver visitando este site a partir de um local fora de Cingapura, sua conexão será através de servidores localizados em Cingapura e todas as informações fornecidas serão processadas e mantidas em nossos servidores Web e sistemas internos localizados em Cingapura. Ao usar este site, você autoriza a exportação de informações pessoais para Cingapura e seu armazenamento e uso, conforme especificado acima.
 
-10. Payment Transactions
+10. Transações de pagamento
 
-For a contract, in which you have to pay a fee, provided that the purchase was made via the website, your credit card information will be collected by the payment processor (credit card number, country, holder of the credit card) in accordance with Art. 6 (1) (a) and (f) GDPR credit card, credit card verification code (CVV code) and expiration date of your credit card), your name, bank account number and bank code if you choose the direct debit or if you choose another payment method or if you choose SEPA direct debit, your IBAN (international bank account number) and your BIC (International bank code of the institution of the debtor), and your home address. Please note that your credit card details or PayPal payments are collected and processed by your payment processor in relation to your payments for the service.
+Para um contrato, no qual você deve pagar uma taxa, desde que a compra tenha sido feita pelo site, as informações do seu cartão de crédito serão coletadas pelo processador de pagamento (número do cartão de crédito, país, titular do cartão de crédito) de acordo com Arte. 6 (1) (a) e (f) cartão de crédito GDPR, código de verificação do cartão de crédito (código CVV) e data de validade do seu cartão de crédito), seu nome, número da conta bancária e código do banco, se você escolher o débito direto ou se escolha outro método de pagamento ou se você escolher débito direto SEPA, seu IBAN (número da conta bancária internacional) e seu BIC (código internacional do banco da instituição do devedor) e seu endereço residencial. Observe que os detalhes do seu cartão de crédito ou os pagamentos do PayPal são coletados e processados ​​pelo seu processador de pagamentos em relação aos seus pagamentos pelo serviço.
 
-11. Social Media
+11. Mídia social
 
-ESXBrasil maintains online presence within social networks and platforms in order to communicate with customers and users active there, and to inform them about ESXBrasil services. When calling the respective networks and platforms, the terms and conditions and the data processing guidelines apply to their respective operators.
+O ESXBrasil mantém presença on-line nas redes e plataformas sociais, a fim de se comunicar com clientes e usuários ativos lá e informá-los sobre os serviços do ESXBrasil. Ao chamar as respectivas redes e plataformas, os termos e condições e as diretrizes de processamento de dados se aplicam aos seus respectivos operadores.
 
-Unless otherwise stated in our Privacy Policy, users' data will be processed as long as they communicate with ESXBrasil within social networks and platforms, e.g. write posts on ESXBrasil’s online presence or send messages.
+Salvo disposição em contrário em nossa Política de Privacidade, os dados dos usuários serão processados ​​desde que se comuniquem com o ESXBrasil em redes e plataformas sociais, por exemplo escreva postagens na presença on-line do ESXBrasil ou envie mensagens.
 
-12. Integration of Services and Contents of Third Parties
+12. Integração de serviços e conteúdos de terceiros
 
-Based on ESXBrasil’s legitimate interests (such as interest in the analysis, optimization and economic operation of our online offer within the meaning of Art. 6 (1) lit. GDPR), ESXBrasil make use of content or services offered by third-party providers in order to provide their content and services, such as including videos (hereinafter collectively referred to as "Content").
+Com base nos interesses legítimos da ESXBrasil (como o interesse na análise, otimização e operação econômica de nossa oferta on-line, na aceção do Art. 6 (1) lit. GDPR), a ESXBrasil utiliza conteúdo ou serviços oferecidos por terceiros em para fornecer seu conteúdo e serviços, como a inclusão de vídeos (a seguir denominados coletivamente "Conteúdo").
 
-This always presupposes that the third party providers of this content perceive the IP address of the users, since they could not send the content to their browser without the IP address. The IP address is therefore required for the presentation of this content. ESXBrasil endeavors to use only content whose respective providers use the IP address solely for the delivery of the content. Third parties may also use so-called pixel tags (invisible graphics, also referred to as "web beacons") for statistical or marketing purposes. The "pixel tags" can be used to evaluate information such as visitor traffic on the pages of this website. The pseudonymous information may also be stored in cookies on the user's device and may include, but is not limited to, technical information about the browser and operating system, referring web sites, visit time, and other information regarding the use of ESXBrasil Sites.
+Isso sempre pressupõe que os fornecedores terceirizados desse conteúdo percebam o endereço IP dos usuários, pois não poderiam enviar o conteúdo para o navegador sem o endereço IP. O endereço IP é, portanto, necessário para a apresentação deste conteúdo. A ESXBrasil se esforça para usar apenas o conteúdo cujos respectivos provedores usam o endereço IP apenas para a entrega do conteúdo. Terceiros também podem usar as chamadas tags de pixel (gráficos invisíveis, também chamados de "web beacons") para fins estatísticos ou de marketing. As "tags de pixel" podem ser usadas para avaliar informações como o tráfego de visitantes nas páginas deste site. As informações pseudônimas também podem ser armazenadas em cookies no dispositivo do usuário e podem incluir, entre outras, informações técnicas sobre o navegador e o sistema operacional, sites de referência, tempo de visita e outras informações sobre o uso dos sites ESXBrasil.
 
 
 A. YouTube
 
-ESXBrasil embeds videos on the YouTube platform of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-Privacy policy: https://policies.google.com/privacy?hl=de
-Opt-Out: https://adssettings.google.com/authenticated.
+O ESXBrasil incorpora vídeos na plataforma do YouTube do Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, EUA
+Política de Privacidade: https://policies.google.com/privacy?hl=de
+Desativação: https://adssettings.google.com/authenticated.
 
 B. Facebook
 
-ESXBrasil also use social plugins ("plugins") of the social network facebook.com, which is provided by Facebook Ireland, on the basis of ESXBrasil’s legitimate interests (analysis, optimization and economical operation of ESXBrasil’s online offer as defined in Art. 6 (1) lit. GDPR) Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2, Ireland ("Facebook"). The plugins can represent interaction elements or content (such as videos, graphics or text contributions) and can be recognized by one of the Facebook logos (white "f" on blue tile, the terms "Like", "Like" or a "thumbs up" sign) or are marked with the addition "Facebook Social Plugin". The list and appearance of Facebook Social Plugins can be viewed here: https://developers.facebook.com/docs/plugins/.
+A ESXBrasil também usa plugins sociais ("plugins") da rede social facebook.com, fornecida pelo Facebook Ireland, com base nos interesses legítimos da ESXBrasil (análise, otimização e operação econômica da oferta on-line da ESXBrasil, conforme definido no art. 6 ( 1) lit. GDPR) Ltd., 4 Grand Canal Square, Grand Canal Harbor, Dublin 2, Irlanda ("Facebook"). Os plug-ins podem representar elementos de interação ou conteúdo (como vídeos, gráficos ou contribuições de texto) e podem ser reconhecidos por um dos logotipos do Facebook (branco "f" no azulejo azul, os termos "Curtir", "Curtir" ou "polegares" para cima) ou são marcados com a adição "Facebook Social Plugin". A lista e a aparência dos plug-ins sociais do Facebook podem ser visualizadas aqui: https://developers.facebook.com/docs/plugins/.
 
-Facebook is certified under the Privacy Shield Agreement, which provides a guarantee to comply with European privacy legislation (https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active).
+O Facebook é certificado de acordo com o Privacy Shield Agreement, que fornece uma garantia para cumprir a legislação européia de privacidade (https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active).
 
-When a user invokes the feature that contains such a plugin, their device establishes a direct connection to the Facebook servers. The content of the plugin is transmitted by Facebook directly to the device of the user and incorporated by him into the online offer. In the process, user profiles can be created from the processed data. ESXBrasil has no control over the amount of data Facebook collects using this plugin.
+Quando um usuário chama o recurso que contém esse plug-in, o dispositivo estabelece uma conexão direta com os servidores do Facebook. O conteúdo do plug-in é transmitido pelo Facebook diretamente para o dispositivo do usuário e incorporado por ele na oferta online. No processo, perfis de usuário podem ser criados a partir dos dados processados. O ESXBrasil não tem controle sobre a quantidade de dados que o Facebook coleta usando este plugin.
 
-By integrating the plugins, Facebook receives the information that a user has accessed the corresponding page of the online offer. If the user is logged in to Facebook, Facebook can assign the visit to his Facebook account. If users interact with the plugins, for example, press the Like button or leave a comment, the information is transmitted from your device directly to Facebook and stored there. If a user is not a member of Facebook, there is still the possibility that Facebook will find out and save their IP address.
+Ao integrar os plugins, o Facebook recebe as informações de que um usuário acessou a página correspondente da oferta online. Se o usuário estiver conectado ao Facebook, o Facebook poderá atribuir a visita à sua conta do Facebook. Se os usuários interagirem com os plug-ins, por exemplo, pressione o botão Curtir ou deixe um comentário, as informações são transmitidas do seu dispositivo diretamente para o Facebook e armazenadas lá. Se um usuário não for membro do Facebook, ainda existe a possibilidade de o Facebook descobrir e salvar seu endereço IP.
 
-The purpose and scope of the data collection and the further processing and use of the data by Facebook, as well as the related rights and setting options for the protection of your privacy, can be found in the privacy policy of Facebook: https://www.facebook.com/about/privacy/.
+O objetivo e o escopo da coleta de dados e o processamento e uso adicionais dos dados pelo Facebook, bem como os direitos relacionados e as opções de configuração para a proteção de sua privacidade, podem ser encontrados na política de privacidade do Facebook: https: // www.facebook.com/about/privacy/.
 
-If a user is a Facebook member and does not want Facebook to collect data about him via this online offer and link it to his member data stored on Facebook, he must log out of Facebook and delete their cookies before using ESXBrasil Sites. Other settings and inconsistencies regarding the use of data for advertising purposes are possible within the Facebook profile settings: https://www.facebook.com/settings?tab=ads or via the USA site http://www.aboutads.info / choices / or the EU page http://www.youronlinechoices.com/. The settings are platform independent and they are adopted for all devices, such as desktop computers or mobile devices.
+Se um usuário é um membro do Facebook e não deseja que o Facebook colete dados sobre ele por meio desta oferta online e os vincule aos dados de seus membros armazenados no Facebook, ele deve sair do Facebook e excluir os cookies antes de usar os Sites ESXBrasil. Outras configurações e inconsistências relacionadas ao uso de dados para fins publicitários são possíveis nas configurações de perfil do Facebook: https://www.facebook.com/settings?tab=ads ou no site dos EUA http://www.aboutads.info / opções / ou na página da UE http://www.youronlinechoices.com/. As configurações são independentes da plataforma e são adotadas para todos os dispositivos, como computadores desktop ou dispositivos móveis.
 
 C. Twitter
 
-Features of the Twitter service are included on ESXBrasil Sites (Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA). By clicking on the Twitter button and the "Re-Tweet" function, the websites you visit are linked to your Twitter account and shared with other users. This data is also transmitted to Twitter. ESXBrasil points out that as the provider of the ESXBrasil Sites, ESXBrasil is not aware of the content of the transmitted data and their use by Twitter.
+Os recursos do serviço do Twitter estão incluídos nos sites da ESXBrasil (Twitter, Inc. 1355 Market St, Suite 900, São Francisco, CA 94103, EUA). Ao clicar no botão Twitter e na função "Re-Tweet", os sites que você visita são vinculados à sua conta do Twitter e compartilhados com outros usuários. Esses dados também são transmitidos para o Twitter. A ESXBrasil ressalta que, como fornecedora dos Sites da ESXBrasil, a ESXBrasil não tem conhecimento do conteúdo dos dados transmitidos e de seu uso pelo Twitter.
 
-More information can be found in the privacy policy of Twitter at: https://twitter.com/privacy?lang=en
-Opt-Out: https://twitter.com/personalization
+Mais informações podem ser encontradas na política de privacidade do Twitter em: https://twitter.com/privacy?lang=en
+Desativação: https://twitter.com/personalization
 
 D. Twitch TV
 
-Twitch TV plug-ins (Twitch Interactive, Inc., 225 Bush Street, 9th Floor, San Francisco, CA 94104, USA) are integrated into ESXBrasil Sites.
+Os plug-ins de TV do Twitch (Twitch Interactive, Inc., 225 Bush Street, 9º andar, São Francisco, CA 94104, EUA) são integrados aos sites da ESXBrasil.
 
-Privacy Policy: https://www.twitch.tv/p/legal/privacy-policy/
+Política de Privacidade: https://www.twitch.tv/p/legal/privacy-policy/
 
-If you do not want Twitch to associate visiting our pages with your Twitch TV user account, please log out of your Twitch TV user account beforehand.
-E. PayPal, Xsolla, and Stripe
+Se você não deseja que o Twitch associe a visita às nossas páginas com sua conta de usuário do Twitch TV, efetue logout da sua conta de usuário do Twitch TV com antecedência.
+E. PayPal, Xsolla e Stripe
 
-We make use of different payment providers.
+Utilizamos diferentes fornecedores de pagamento.
 
 PayPal: admin@curtcreation.net
-Privacy Policy: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+Política de Privacidade: https://www.paypal.com/us/webapps/mpp/ua/privacy-full
 
 Paymaya: 09777775800
-Privacy Policy: https://www.paymaya.com/privacy
+Política de Privacidade: https://www.paymaya.com/privacy
 
 GCash: 09777775800
-Privacy Policy: https://www.gcash.com/app/v1.0.0/terms-and-conditions
+Política de Privacidade: https://www.gcash.com/app/v1.0.0/terms-and-conditions
 
 
-13. Changes to this Policy
+13. Alterações nesta política
 
-We reserve the right, at our discretion, to make changes to this Policy at any time and from time to time. ESXBrasil will undertake reasonable efforts to notify you of material changes to this Policy. We encourage you to review this Policy regularly for changes. Your continued use of ESXBrasil Sites following the posting of any changes to this Policy indicates your agreement to be bound by the terms of this Policy as revised.
+Reservamo-nos o direito, a nosso critério, de fazer alterações nesta Política a qualquer momento e de tempos em tempos. A ESXBrasil envidará esforços razoáveis ​​para notificá-lo sobre alterações materiais nesta Política. Recomendamos que você reveja esta Política regularmente para alterações. Seu uso continuado dos Sites ESXBrasil após a publicação de quaisquer alterações nesta Política indica que você concorda com os termos desta Política, conforme revisado.
 
-If you have any other questions, comments or complaints about this Policy, please contact us via email at privacy (at) curtcreation (dot) net
+Se você tiver outras perguntas, comentários ou reclamações sobre esta Política, entre em contato conosco por e-mail em privacy (at) curtcreation (dot) net
 
 
-Terms of Service
+Termos de serviço
 
-These Terms of Use ("Terms") govern your use of, purchase of, or subscription to ESXBrasilRP ("ESXBrasil") websites, software, products or services (collectively, the "Services").
+Estes Termos de Uso ("Termos") regem o uso, compra ou assinatura dos sites, software, produtos ou serviços da ESXBrasilRP ("ESXBrasil") (coletivamente, os "Serviços").
 
-PLEASE READ THESE TERMS OF USE CAREFULLY. BY ACCESSING, PURCHASING OR SUBSCRIBING TO THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND BY THESE TERMS WITHOUT LIMITATION OR QUALIFICATION. IF YOU DO NOT ACCEPT THESE TERMS OF USE, DO NOT USE ANY PART OF THE SERVICES.
+LEIA ATENTAMENTE ESTES TERMOS DE USO. AO ACESSAR, COMPRAR OU SUBSCREVER OS SERVIÇOS, VOCÊ RECONHECE QUE LEU, ENTENDEU E CONCORDA EM CUMPRIR ESTES TERMOS SEM LIMITAÇÃO OU QUALIFICAÇÃO. SE VOCÊ NÃO ACEITAR ESTES TERMOS DE USO, NÃO USE QUALQUER PARTE DOS SERVIÇOS.
 
-By using the Services you consent to the collection, use and disclosure of your information as described in ESXBrasil's Privacy Policy. Additional terms may apply to contests, promotions or other ESXBrasil events or activities that you may choose to participate in.
+Ao usar os Serviços, você concorda com a coleta, uso e divulgação de suas informações, conforme descrito na Política de Privacidade da ESXBrasil. Termos adicionais podem ser aplicados a concursos, promoções ou outros eventos ou atividades da ESXBrasil nos quais você pode optar por participar.
 
-1. License to Use the Services
+1. Licença para usar os serviços
 
-Conditioned upon your acceptance of these Terms, ESXBrasil authorizes you to use the Services for your personal, non-commercial use. Any use of the Services in any way not expressly permitted by these Terms is prohibited, and may be actionable under the law. ESXBrasil shall have the right at any time and from time to time to change or discontinue any aspect or feature of the Services, including, but not limited to, content, hours of availability and equipment needed for access or use.
+Condicionada após a aceitação desses Termos, a ESXBrasil autoriza você a usar os Serviços para uso pessoal e não comercial. Qualquer uso dos Serviços de qualquer forma não expressamente permitido por estes Termos é proibido e pode ser acionado de acordo com a lei. A ESXBrasil terá o direito de, a qualquer momento e periodicamente, alterar ou descontinuar qualquer aspecto ou recurso dos Serviços, incluindo, entre outros, conteúdo, horas de disponibilidade e equipamentos necessários para acesso ou uso.
 
-2. Your Conduct and Responsibilities
+2. Sua conduta e responsabilidades
 
-A. You are responsible for protecting the confidentiality of your password(s), if any, and shall be fully responsible for the use of the Services by any other person you permit to access the Services.
+R. Você é responsável por proteger a confidencialidade de suas senhas, se houver, e será totalmente responsável pelo uso dos Serviços por qualquer outra pessoa que você permitir acessar.
 
-B. You agree to use the Services for non-commercial, lawful purposes only and shall not post or transmit through the Services any material which:
+B. Você concorda em usar os Serviços apenas para fins legais e não comerciais, e não deve publicar ou transmitir através dos Serviços qualquer material que:
 
-1. violates or infringes in any way upon the rights of others
+1. viole ou infrinja de alguma forma os direitos de terceiros
 
-2. is unlawful, threatening, abusive, defamatory, invasive of privacy or publicity rights, vulgar, obscene, profane or otherwise objectionable,
+2. é ilegal, ameaçador, abusivo, difamatório, invasivo da privacidade ou dos direitos de publicidade, vulgar, obsceno, profano ou censurável,
 
-3. encourages conduct that would constitute a criminal offense, gives rise to civil liability or otherwise violates any law, or
+3. incentive a conduta que constitua uma ofensa criminal, dê origem a responsabilidade civil ou viole qualquer lei, ou
 
-4. without ESXBrasil's express prior approval, contains advertising or any solicitation with respect to products or services.
+4. sem a aprovação prévia expressa da ESXBrasil, contém publicidade ou qualquer solicitação referente a produtos ou serviços.
 
-C. Any conduct by you that, in ESXBrasil's sole discretion, restricts or inhibits any other user from using or enjoying the Services will not be permitted. Without limiting the foregoing, prohibited conduct includes, but is not limited to:
+C. Qualquer conduta sua que, a critério exclusivo da ESXBrasil, restrinja ou iniba qualquer outro usuário de usar ou desfrutar dos Serviços, não será permitida. Sem limitar o exposto, a conduta proibida inclui, mas não se limita a:
 
-1. propagation of computer worms, viruses and other such malicious code,
+1. propagação de worms, vírus e outros códigos maliciosos,
 
-2. using (directly or indirectly) the Services to make unauthorized entry to any other machine accessible through the Services, and
+2. usar (direta ou indiretamente) os Serviços para tornar a entrada não autorizada em qualquer outra máquina acessível através dos Serviços, e
 
-3. use of the Services to advertise or perform any commercial solicitation, including, but not limited to, the solicitation of users of the Services to become users of other on-line services.
+3. uso dos Serviços para anunciar ou executar qualquer solicitação comercial, incluindo, entre outros, a solicitação de usuários dos Serviços para se tornarem usuários de outros serviços on-line.
 
-Without limiting any other rights or remedies of ESXBrasil, violations of the foregoing may result in removal of any prohibited communications and/or termination of your access to the Services.
+Sem limitar outros direitos ou recursos da ESXBrasil, as violações do exposto acima podem resultar na remoção de quaisquer comunicações proibidas e / ou no cancelamento do seu acesso aos Serviços.
 
-D. You shall not upload, post, submit or otherwise make available on the Services any material protected by copyright, trademark or other proprietary right without the express permission of the owner. You shall be solely liable for any damage resulting from any infringement of copyrights, proprietary rights, or any other harm resulting from such a submission. By submitting material to any public area of the Services, or otherwise submitting materials to ESXBrasil, you automatically grant, or warrant that the owner of such material has expressly granted ESXBrasil the royalty-free, perpetual, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, edit, creative derivative works from, distribute, and sub-license such material (in whole or in part, through multiple tiers and/or via syndication) worldwide and/or to incorporate it in other works in any form, media or technology now known or hereafter developed for the full term of any copyright that may exist in such material. You also permit any other user to access, view, store or reproduce the material for their personal use.
+D. Você não deve enviar, publicar, enviar ou disponibilizar nos Serviços qualquer material protegido por direitos autorais, marca comercial ou outro direito de propriedade sem a permissão expressa do proprietário. Você será o único responsável por qualquer dano resultante de uma violação de direitos autorais, direitos de propriedade ou qualquer outro dano resultante de tal envio. Ao enviar material para qualquer área pública dos Serviços, ou de outra forma enviar materiais para a ESXBrasil, você automaticamente concede ou garante que o proprietário desse material concedeu expressamente à ESXBrasil o direito e licença livres de royalties, perpétuos, irrevogáveis ​​e não exclusivos para usar, reproduzir, modificar, adaptar, publicar, traduzir, editar, trabalhos derivados criativos, distribuir e sub-licenciar esse material (no todo ou em parte, por várias camadas e / ou via organização) em todo o mundo e / ou incorporá-lo em outros trabalhos de qualquer forma, mídia ou tecnologia agora conhecida ou desenvolvida para o termo completo de qualquer direito autoral que possa existir em tal material. Você também permite que qualquer outro usuário acesse, visualize, armazene ou reproduza o material para uso pessoal.
 
-E. By appearing and participating in any ESXBrasil competition, you grant ESXBrasil and its assignees and licensees right to review and make public any and all game play, film, photograph and record your name, nickname, pseudonym, persona, picture, biographical material, voice and/or likeness and to use and distribute the same in any manner or media whatsoever, by any and all means, media, devices, processes and technology now or hereafter known or devised anywhere in the universe at any time in perpetuity, for any lawful purpose whatsoever, including advertising, publicity or trade.
+E. Ao aparecer e participar de qualquer competição da ESXBrasil, você concede ao ESXBrasil e seus cessionários e licenciados o direito de revisar e tornar públicas toda e qualquer brincadeira, filme, fotografia e registro de seu nome, apelido, pseudônimo, persona, foto, material biográfico, voz e / ou semelhança e usar e distribuir o mesmo de qualquer maneira ou meio, por todos os meios, meios, dispositivos, processos e tecnologia agora ou no futuro conhecidos ou criados em qualquer lugar do universo a qualquer momento, perpetuamente, para qualquer qualquer finalidade legal, incluindo publicidade, publicidade ou comércio.
 
-3. Intellectual Property and Proprietary Rights
+3. Propriedade intelectual e direitos de propriedade
 
-The Services contain copyrighted material, trademarks and other proprietary information, including, but not limited to, text, software, photos, video, graphics, music and sound, and the entire contents of the Services are copyrighted as a collective work under the Philippine copyright laws. You may not modify, publish, transmit, participate in the transfer or sale, create derivative works or in any way exploit any of the content, in whole or in part. Except as otherwise expressly permitted under copyright law, no copying, redistribution, retransmission, publication or commercial or non-commercial exploitation of material on the Services will be permitted without the express permission of ESXBrasil and the copyright owner. You acknowledge and agree that you do not acquire any ownership rights by accessing or otherwise using copyrighted material.
+Os Serviços contêm material protegido por direitos autorais, marcas comerciais e outras informações proprietárias, incluindo, mas não se limitando a, texto, software, fotos, vídeo, gráficos, música e som, e todo o conteúdo dos Serviços é protegido por direitos autorais como um trabalho coletivo sob os direitos autorais das Filipinas. leis. Você não pode modificar, publicar, transmitir, participar da transferência ou venda, criar trabalhos derivados ou de qualquer forma explorar qualquer conteúdo, no todo ou em parte. Exceto quando expressamente permitido de acordo com a lei de direitos autorais, nenhuma cópia, redistribuição, retransmissão, publicação ou exploração comercial ou não comercial de material nos Serviços será permitida sem a permissão expressa da ESXBrasil e do proprietário dos direitos autorais. Você reconhece e concorda que não adquire nenhum direito de propriedade acessando ou usando material protegido por direitos autorais.
 
-ESXBrasil, ESXBrasilX, ESXBrasil Donator, and other ESXBrasil graphics, logos, designs, page headers, button icons, scripts and service names (jointly referred to as "ESXBrasil Marks") are the exclusive property of ESXBrasil All rights reserved. ESXBrasil Marks and trade dress may not be used, including as part of trademarks or domain names, in connections with any product of service that is likely to cause confusion and may not be copied, imitated, or used, in whole or part, without the prior written permission of ESXBrasil.
+ESXBrasil, ESXBrasilX, ESXBrasil Donator e outros gráficos, logotipos, designs, cabeçalhos de página, ícones de botões, scripts e nomes de serviço (em conjunto chamados de "Marcas ESXBrasil") são propriedade exclusiva da ESXBrasil Todos os direitos reservados. As marcas e trajes comerciais da ESXBrasil não podem ser usados, inclusive como parte de marcas registradas ou nomes de domínio, em conexões com qualquer produto de serviço que possa causar confusão e que não possa ser copiado, imitado ou usado, no todo ou em parte, sem o permissão prévia por escrito da ESXBrasil.
 
-4. Changes to these Terms
+4. Alterações nestes Termos
 
-ESXBrasil may from time to time to change or modify these Terms of Use or impose new conditions, including, but not limited to, adding fees and charges for use. All such changes, modifications, additions or deletions shall be effective immediately upon posting notice on the Services. You acknowledge and agree that any use of the Services by you after such notice constitutes your acceptance to the modified Terms.
+O ESXBrasil pode, ocasionalmente, alterar ou modificar estes Termos de Uso ou impor novas condições, incluindo, entre outras, a adição de taxas e encargos pelo uso. Todas essas alterações, modificações, adições ou exclusões entrarão em vigor imediatamente após a publicação de um aviso nos Serviços. Você reconhece e concorda que qualquer uso dos Serviços por você após esse aviso constitui sua aceitação dos Termos modificados.
 
-5. Disclaimer of Warranties
+5. Isenção de Garantia
 
-THE SERVICES ARE PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY.
+OS SERVIÇOS SÃO FORNECIDOS "NO ESTADO EM QUE SE ENCONTRAM" E SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS DE TÍTULOS OU GARANTIAS IMPLÍCITAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO OU NENHUMA INFRAÇÃO.
 
-ANY WARRANTY ON PRODUCTS OR SERVICES PURCHASED OR SUBSCRIBED TO THROUGH THE SERVICES ARE PROVIDED BY THE ORIGINAL MANUFACTURER ONLY AND NOT BY ESXBrasil. ESXBrasil ITSELF MAKES NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES SOLD OR SUBSCRIBED TO THROUGH THE SERVICES.
+QUALQUER GARANTIA DE PRODUTOS OU SERVIÇOS ADQUIRIDOS OU ASSINADOS ATRAVÉS DOS SERVIÇOS SÃO FORNECIDOS PELO FABRICANTE ORIGINAL SOMENTE E NÃO PELA ESXBrasil. A ESXBrasil não oferece garantias de qualquer espécie, expressa ou implícita, com respeito a quaisquer produtos ou serviços vendidos ou assinados por meio dos serviços.
 
-PRODUCTS AND SERVICES PURCHASED OR SUBSCRIBED TO ARE PROVIDED OR SOLD "AS-IS" AND ESXBrasil DISCLAIMS ANY AND ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. ESXBrasil CANNOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF PRODUCTS OR SERVICES. ESXBrasil DOES NOT REPRESENT OR WARRANT THAT PRODUCTS, SERVICES OR ANY PART THEREOF, ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT PRODUCTS OR SERVICES THAT ARE DOWNLOADED FROM THE SERVICES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THEREFORE, YOU SHOULD EXERCISE CAUTION IN THE USE AND DOWNLOADING OF ANY SUCH CONTENT OR MATERIALS AND USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES.
+PRODUTOS E SERVIÇOS ADQUIRIDOS OU SUBSCRITOS SÃO FORNECIDOS OU VENDIDOS "NO ESTADO EM QUE SE ENCONTRAM" E A ESXBrasil REJEITA QUALQUER E TODAS AS REPRESENTAÇÕES E GARANTIAS, EXPRESSAS OU IMPLÍCITAS, INCLUINDO SEM LIMITAÇÃO GARANTIAS IMPLÍCITAS DE TÍTULOS, PARTICIPAÇÕES DE MERCADORIAS OU DE MERCADORIAS . A ESXBrasil NÃO PODE GARANTIR E NÃO PROMOVER RESULTADOS ESPECÍFICOS DO USO DE PRODUTOS OU SERVIÇOS. A ESXBrasil NÃO REPRESENTA OU GARANTIA DE QUE OS PRODUTOS, SERVIÇOS OU QUALQUER PARTE POSSIVEL SÃO PRECISOS, COMPLETOS, CONFIÁVEIS, CORRENTES OU SEM ERROS OU QUE OS PRODUTOS OU SERVIÇOS QUE SÃO BAIXADOS DOS SERVIÇOS ESTÃO LIVRES DE VÍRUS OU OUTROS COMPONENTES PREJUDICIAIS. Portanto, você deve tomar cuidado ao usar e fazer o download de qualquer conteúdo ou material e usar o software reconhecido pela indústria para detectar e desinfetar vírus.
 
-NEITHER ESXBrasil, ESXBrasil AFFILIATED NAMES NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS, SPONSORS, ASSIGNEES OR LICENSEES (COLLECTIVELY, THE "ESXBrasil PARTIES") WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE; NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SERVICES, OR AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION, SERVICE OR MERCHANDISE PROVIDED THROUGH THE SERVICES. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+NENHUM ESXBrasil, ESXBrasil NOMEADO, NENHUM DE SEUS COLABORADORES RESPECTIVOS, AGENTES, FORNECEDORES DE CONTEÚDOS DE TERCEIROS, PATROCINADORES, ASSOCIADOS OU LICENCIADOS (COLETIVAMENTE, AS "PARTES ESXBrasil") GARANTIAM QUE OS SERVIÇOS ESTÃO LIVRES; NEM FAZEM QUALQUER GARANTIA RELATIVA AOS RESULTADOS QUE PODEM SER OBTIDOS PELO USO DOS SERVIÇOS, OU QUANTO À PRECISÃO, CONFIABILIDADE OU CONTEÚDO DE QUALQUER INFORMAÇÃO, SERVIÇO OU MERCADORIA FORNECIDA ATRAVÉS DOS SERVIÇOS. A LEI APLICÁVEL PODE NÃO PERMITIR A EXCLUSÃO DE GARANTIAS IMPLÍCITAS, ASSIM A EXCLUSÃO ACIMA NÃO PODE SE APLICAR A VOCÊ.
 
-6. Limitation of Liability
+6. Limitação de responsabilidade
 
-ESXBrasil ASSUMES NO LIABILITY IN CONNECTION WITH ANY USE OF THE SERVICES. USE OF THE SERVICES IS AT YOUR SOLE RISK. EXCEPT IN JURISDICTIONS WHERE SUCH PROVISIONS ARE RESTRICTED, IN NO EVENT WILL ESXBrasil OR ITS DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOST PROFITS OR LOST DATA ARISING FROM YOUR PURCHASE, SUBSCRIPTION OR USE OF ANY PRODUCTS OR SERVICES, EVEN IF ESXBrasil IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, ESXBrasil'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID BY YOU TO ESXBrasil FOR THE PRODUCT OR SERVICE. YOU ACKNOWLEDGE THAT IF NO AMOUNT IS PAID TO ESXBrasil FOR THE PRODUCT OR SERVICE, YOU SHALL BE LIMITED TO INJUNCTIVE RELIEF ONLY, UNLESS OTHERWISE PERMITTED BY LAW, AND SHALL NOT BE ENTITLED TO DAMAGES OF ANY KIND FROM ESXBrasil, REGARDLESS OF THE CAUSE OF ACTION.
+A ESXBrasil NÃO ASSUME RESPONSABILIDADE EM RELAÇÃO A QUALQUER USO DOS SERVIÇOS. O USO DOS SERVIÇOS É DE SEU ÚNICO RISCO. EXCETO EM JURISDIÇÕES EM QUE TAIS DISPOSIÇÕES SÃO RESTRITAS, EM NENHUM CASO A ESXBrasil OU SEUS DIRETORES, COLABORADORES OU AGENTES SÃO RESPONSÁVEIS POR VOCÊ OU QUALQUER PESSOA TERCEIRA POR QUALQUER PESSOA INDIRETA, CONSEQÜENCIAL, EXEMPLAR, INCIDENTAL, ESPECIAL OU PUNITIVA DADOS PERDIDOS DECORRENTES DE SUA COMPRA, ASSINATURA OU USO DE QUALQUER PRODUTO OU SERVIÇO, MESMO QUE A ESXBrasil tenha conhecimento ou tenha sido avisada da possibilidade de tais danos. NÃO obstante qualquer coisa ao contrário aqui contido, a RESPONSABILIDADE DA ESXBrasil POR VOCÊ POR QUALQUER CAUSA, E INDEPENDENTEMENTE DA FORMA DA AÇÃO, SEMPRE SERÁ LIMITADA AO VALOR PAGO À ESXBrasil PARA O PRODUTO OU SERVIÇO. VOCÊ RECONHECE QUE, SE NENHUM VALOR É PAGO À ESXBrasil PELO PRODUTO OU SERVIÇO, VOCÊ SERÁ LIMITADO SOMENTE POR ALÍVIO INJUNTIVO, A MENOS QUE PERMITIDO POR LEI, E NÃO SERÁ PROVIDO A DANOS DE QUALQUER TIPO DA ESXBrasil, INDEPENDENTEMENTE DA CAUSA .
 
-7. Monitoring
+7. Monitoramento
 
-ESXBrasil shall have the right, but not the obligation, to monitor the content of the Services, including chat rooms and forums, to determine compliance with these Terms of Use and any operating rules established by ESXBrasil and to satisfy any law, regulation or authorized government request. Without limiting the foregoing, ESXBrasil shall have the right to remove any material that ESXBrasil, in its sole discretion, finds to be in violation of the provisions hereof or otherwise objectionable.
+A ESXBrasil terá o direito, mas não a obrigação, de monitorar o conteúdo dos Serviços, incluindo salas de bate-papo e fóruns, para determinar a conformidade com estes Termos de Uso e quaisquer regras operacionais estabelecidas pela ESXBrasil e para satisfazer qualquer lei, regulamento ou governo autorizado solicitação. Sem limitar o acima exposto, a ESXBrasil terá o direito de remover qualquer material que a ESXBrasil, a seu exclusivo critério, considere estar violando as disposições deste documento ou de qualquer outra forma censurável.
 
-8. Indemnification
+8. Indenização
 
-You agree to defend, indemnify and hold harmless ESXBrasil, ESXBrasil affiliated companies and their respective directors, officers, employees, agents, assignees and licensees from and against all claims and expenses, including attorneys' fees, resulting from (i) any breach of these Terms of Use or your negligent and wrongful conduct; (ii) your use and access of the Services, including the posting of any content on the Services by you; and (iii) violation by you of any applicable law, rule or regulation.
+Você concorda em defender, indenizar e isentar as empresas afiliadas da ESXBrasil, ESXBrasil e seus respectivos diretores, executivos, funcionários, agentes, cessionários e licenciados de e contra todas as reivindicações e despesas, incluindo honorários advocatícios, resultantes de (i) qualquer violação destas Termos de Uso ou sua conduta negligente e injusta; (ii) seu uso e acesso aos Serviços, incluindo a publicação de qualquer conteúdo nos Serviços por você; e (iii) violação por você de qualquer lei, regra ou regulamento aplicável.
 
-9. Termination
+9. Rescisão
 
-You may unsubscribe through cancelling payment through your payment provider. Without limiting the foregoing, ESXBrasil shall have the right to immediately terminate any of your passwords or accounts in the event of any conduct by you which ESXBrasil, in its sole discretion, considers to be unacceptable, or in the event of any breach by you of these Terms of Use. The provisions of Sections 3, 4, 5, 6, 8, 10, 11, 12 and 13 shall survive termination of these Terms of Use.
+Você pode cancelar a inscrição cancelando o pagamento através do seu provedor de pagamento. Sem limitar o acima exposto, a ESXBrasil terá o direito de encerrar imediatamente qualquer uma de suas senhas ou contas no caso de qualquer conduta sua que a ESXBrasil, a seu exclusivo critério, considere inaceitável ou no caso de qualquer violação por você. estes Termos de Uso. As disposições das Seções 3, 4, 5, 6, 8, 10, 11, 12 e 13 sobreviverão ao término destes Termos de Uso.
 
-11. Third Party Content
+11. Conteúdo de terceiros
 
-ESXBrasil is a distributor (and not a publisher) of content supplied by third parties and users of the Services. Accordingly, ESXBrasil has no more editorial control over such content than does a public library, bookstore, or newsstand. Any opinions, advice, statements, services, offers, or other information or content expressed or made available by third parties, including information providers, or any user of the Services are those of the respective author(s) or distributor(s) and not of ESXBrasil. Neither ESXBrasil nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content, nor its merchantability or fitness for any particular purpose. Refer to Sections 3 and 4 above for the complete provisions governing limitation of liabilities and disclaimers of warranty.
+A ESXBrasil é uma distribuidora (e não uma editora) de conteúdo fornecido por terceiros e usuários dos Serviços. Consequentemente, o ESXBrasil não tem mais controle editorial sobre esse conteúdo do que uma biblioteca pública, livraria ou banca de jornal. Quaisquer opiniões, conselhos, declarações, serviços, ofertas ou outras informações ou conteúdos expressos ou disponibilizados por terceiros, incluindo provedores de informações ou qualquer usuário dos Serviços, são de responsabilidade do (s) respectivo (s) autor (es) ou distribuidor (es) e não do ESXBrasil. Nem a ESXBrasil, nem qualquer fornecedor terceirizado de informações garantem a precisão, integridade ou utilidade de qualquer conteúdo, nem sua comercialização ou adequação a qualquer fim específico. Consulte as Seções 3 e 4 acima para obter as disposições completas que regem a limitação de responsabilidades e isenções de garantia.
 
-In many instances, the content available through the Services represents the opinions and judgments of the respective information provider or users not under contract with ESXBrasil. ESXBrasil neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on the Services. Under no circumstances will ESXBrasil be liable for any loss or damage caused by your reliance on information obtained through the Services. It is your responsibility to evaluate the accuracy, completeness or usefulness of any information, opinion, advice or other content available through the Services.
+Em muitos casos, o conteúdo disponível através dos Serviços representa as opiniões e julgamentos do respectivo provedor de informações ou usuários sem contrato com a ESXBrasil. A ESXBrasil não endossa nem é responsável pela precisão ou confiabilidade de qualquer opinião, conselho ou declaração feita sobre os Serviços. Sob nenhuma circunstância a ESXBrasil será responsável por qualquer perda ou dano causado por sua confiança nas informações obtidas através dos Serviços. É de sua responsabilidade avaliar a precisão, integridade ou utilidade de qualquer informação, opinião, conselho ou outro conteúdo disponível através dos Serviços.
 
-12. Terms of Sale
+12. Termos de Venda
 
-The following terms apply to your purchases or subscriptions related to the Services.
+Os termos a seguir se aplicam às suas compras ou assinaturas relacionadas aos Serviços.
 
-A. Purchase Qualifications; Account Security
+A. Purchase Qualifications; Segurança da conta
 
-To purchase a product or subscription related to the Services, you must be a registered ESXBrasil User and comply with these Terms of Use. You acknowledge that you are responsible for maintaining the security of, and restricting access to, your account and password, and you agree to accept responsibility for all purchases and other activities that occur under your account. ESXBrasil sells its products only to those users who can legally make purchases using one of the accepted payment methods. If you are under 18, you may make purchases on ESXBrasil only with the involvement of a parent or guardian. ESXBrasil reserves the right to refuse or cancel orders or terminate accounts, at any time in its sole discretion.
+ESXBrasil vende seus produtos apenas para usuários que podem legalmente fazer compras usando um dos métodos de pagamento aceitos. Se você tem menos de 18 anos, poderá fazer compras no ESXBrasil apenas com o envolvimento de pais ou responsáveis. A ESXBrasil se reserva o direito de recusar ou cancelar pedidos ou encerrar contas, a qualquer momento, a seu exclusivo critério.
 
-B. Payment Method and Terms
+B. Método de Pagamento e Termos
 
-We accept payments made through PayPal, GCash, and Paymaya in connection with the purchase of any merchandise or subscription through the Services. By submitting an order through ESXBrasil, you authorize ESXBrasil, or its designated payment processor, to charge the account you specify for the purchase amount. All payments are to be made in Philippine Peso.
+Aceitamos pagamentos feitos através do PayPal, GCash e Paymaya em conexão com a compra de qualquer mercadoria ou assinatura através dos Serviços. Ao enviar um pedido pelo ESXBrasil, você autoriza o ESXBrasil, ou seu processador de pagamento designado, a cobrar a conta especificada pelo valor da compra. Todos os pagamentos devem ser feitos em peso filipino.
 
-C. Product and Service Descriptions and Availability, Errors
+C. Descrição e disponibilidade de produtos e serviços, erros
 
-ESXBrasil and its suppliers continually upgrade and revise its products and services to provide you with new products and services. ESXBrasil may revise, discontinue or modify products or services at any time without prior notice to customers, and products or services may become unavailable without notice. ESXBrasil shall have no liability of any kind if a product or service that has been ordered is unavailable. If necessary, ESXBrasil reserves the right to substitute items of equal or greater value when an item or service is unavailable or ESXBrasil may cancel the order.
+A ESXBrasil e seus fornecedores atualizam e revisam continuamente seus produtos e serviços para fornecer novos produtos e serviços. A ESXBrasil pode revisar, descontinuar ou modificar produtos ou serviços a qualquer momento sem aviso prévio aos clientes, e produtos ou serviços podem ficar indisponíveis sem aviso prévio. A ESXBrasil não terá nenhuma responsabilidade de qualquer tipo se um produto ou serviço que foi solicitado não estiver disponível. Se necessário, a ESXBrasil se reserva o direito de substituir itens de valor igual ou superior quando um item ou serviço estiver indisponível ou a ESXBrasil pode cancelar o pedido.
 
-We attempt to be as accurate as possible and eliminate errors on the Services, however we do not warrant that any product, service or description, photograph, pricing or other information is accurate, complete, reliable, current, or error-free. In the event of an error, whether on the Services, in an order confirmation, in processing an order, delivering a product or service or otherwise, we reserve the right to correct such error and revise your order accordingly if necessary (including charging the correct price) or to cancel the order and refund any amount charged. In addition, we may, in lieu of a refund as provided in this paragraph, opt to provide you with a merchandise or service credit, with a value at least equal to the amount charged to your account. ESXBrasil reserves the right to determine and modify from time to time the exact nature of any such merchandise or service credit, including conversion into one or more different types of merchandise or service credits. Your sole remedy in the event of such error is to cancel your order and obtain a refund or credit as set forth above. To request a refund, open a request here: https://i.curt.sg/refund
+Tentamos ser o mais precisos possível e eliminamos erros nos Serviços, no entanto, não garantimos que qualquer produto, serviço ou descrição, fotografia, preço ou outra informação seja precisa, completa, confiável, atual ou livre de erros. No caso de um erro, seja nos Serviços, em uma confirmação de pedido, no processamento de um pedido, na entrega de um produto ou serviço ou de outra forma, reservamo-nos o direito de corrigir esse erro e revisar seu pedido conforme necessário (incluindo cobrança do preço) ou para cancelar o pedido e reembolsar qualquer valor cobrado. Além disso, podemos, em vez de um reembolso, conforme previsto neste parágrafo, optar por fornecer a você um crédito de mercadoria ou serviço, com um valor pelo menos igual ao valor cobrado em sua conta. A ESXBrasil se reserva o direito de determinar e modificar de tempos em tempos a natureza exata de qualquer crédito de mercadoria ou serviço, incluindo a conversão em um ou mais tipos diferentes de crédito de mercadoria ou serviço. Seu único recurso no caso de tal erro é cancelar seu pedido e obter um reembolso ou crédito, conforme estabelecido acima. Para solicitar um reembolso, abra uma solicitação aqui: https://i.curt.sg/refund
 
-D. Refunds and Returns
+D. Reembolsos e Devoluções
 
-All merchandise must be inspected by customer upon delivery. If any box looks dented or damaged in any way, the driver must make a notation and should mark any damages. Boxes opened later and then damage noticed without driver making notation, is considered concealed damage. Some shipping companies do not always cover full refunds on concealed damage items. ESXBrasil is not responsible for damaged incurred during shipping. There are no returns or cancellations for any intangible property or services purchased from ESXBrasil, including without limitation paid subscriptions and Lessons.
+Toda a mercadoria deve ser inspecionada pelo cliente no momento da entrega. Se alguma caixa parecer amassada ou danificada, o motorista deve fazer uma anotação e marcar quaisquer danos. As caixas abrem mais tarde e, em seguida, os danos notados sem a anotação do motorista são considerados danos ocultos. Algumas empresas de transporte nem sempre cobrem reembolsos totais de itens de danos ocultos. A ESXBrasil não é responsável por danos causados ​​durante o transporte. Não há devoluções ou cancelamentos de quaisquer bens ou serviços intangíveis adquiridos da ESXBrasil, incluindo, sem limitação, assinaturas pagas e lições.
 
-Returns are permitted only in the event of an error committed by ESXBrasil. You must email or call first for a return authorization number, and no merchandise can be returned without a written authorization number. Items must be unopened, in new condition, and returned in original shipping containers. All sales are final, noncancelable and nonrefundable except as expressly set forth in this Agreement or as otherwise determined by ESXBrasil in its sole discretion.
+As devoluções são permitidas apenas no caso de um erro cometido pela ESXBrasil. Você deve enviar um email ou ligar primeiro para obter um número de autorização de devolução e nenhuma mercadoria pode ser devolvida sem um número de autorização por escrito. Os itens devem ser fechados, em novas condições e devolvidos nas embalagens originais. Todas as vendas são finais, não canceláveis ​​e não reembolsáveis, exceto conforme expressamente estabelecido neste Contrato ou conforme determinado pela ESXBrasil, a seu critério exclusivo.
 
-13. Copyright Complaints
+13. Reclamações de direitos autorais
 
-ESXBrasil owns, protects and enforces copyrights in its own creative material and respects the copyright properties of others. You are prohibited from uploading, posting or otherwise transmitting on the Services any materials that violate another party's intellectual property rights. When we receive proper notification under our DMCA Policy, we promptly remove or disable access to the alleged infringing materials and terminate the accounts of repeat offenders. ESXBrasil's DMCA Policy is hereby incorporated into these Terms of Use.
+A ESXBrasil possui, protege e aplica direitos autorais em seu próprio material criativo e respeita as propriedades de direitos autorais de terceiros. Você está proibido de carregar, publicar ou transmitir nos Serviços quaisquer materiais que violem os direitos de propriedade intelectual de outras partes. Quando recebemos uma notificação adequada de acordo com nossa Política DMCA, removemos ou desativamos prontamente o acesso aos supostos materiais infratores e encerramos as contas de reincidentes. A Política DMCA da ESXBrasil é incorporada a estes Termos de Uso.
