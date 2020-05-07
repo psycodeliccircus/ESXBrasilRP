@@ -116,7 +116,7 @@ Faça Download da Versão de testa<br>
 https://github.com/psycodeliccircus/ESXBrasilRP/releases
 
 
-![Launcher_demo](https://github.com/psycodeliccircus/ESXBrasilRP/blob/master/demos/launcher_alpha.gif?raw=true)
+![Launcher_demo](https://github.com/psycodeliccircus/ESXBrasilRP/blob/master/demos/novo_launcher.gif?raw=true)
 
 # Discord
 
