@@ -1588,6 +1588,159 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
+# whitelist Section
+--------------------------------------------------------------*/
+#whitelist {
+  padding: 60px 0;
+}
+
+#whitelist .whitelist-info {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#whitelist .whitelist-info i {
+  font-size: 48px;
+  display: inline-block;
+  margin-bottom: 10px;
+  color: #3F51B5;
+}
+
+#whitelist .whitelist-info address, #whitelist .whitelist-info p {
+  margin-bottom: 0;
+  color: #112363;
+}
+
+#whitelist .whitelist-info h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #112363;
+}
+
+#whitelist .whitelist-info a {
+  color: #4869df;
+}
+
+#whitelist .whitelist-info a:hover {
+  color: #3F51B5;
+}
+
+#whitelist .whitelist-address, #whitelist .whitelist-phone, #whitelist .whitelist-email {
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  #whitelist .whitelist-address, #whitelist .whitelist-phone, #whitelist .whitelist-email {
+    padding: 20px 0;
+  }
+}
+
+@media (min-width: 768px) {
+  #whitelist .whitelist-phone {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+  }
+}
+
+#whitelist .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#whitelist .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+#whitelist .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+#whitelist .php-email-form .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+#whitelist .php-email-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  -webkit-animation: animate-loading 1s linear infinite;
+  animation: animate-loading 1s linear infinite;
+}
+
+#whitelist .php-email-form input, #whitelist .php-email-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+#whitelist .php-email-form input::focus, #whitelist .php-email-form textarea::focus {
+  background-color: #3F51B5;
+}
+
+#whitelist .php-email-form input {
+  padding: 20px 15px;
+}
+
+#whitelist .php-email-form textarea {
+  padding: 12px 15px;
+}
+
+#whitelist .php-email-form button[type="submit"] {
+  background: #3F51B5;
+  border: 0;
+  padding: 10px 40px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+#whitelist .php-email-form button[type="submit"]:hover {
+  background: #2196f3;
+}
+
+@-webkit-keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
