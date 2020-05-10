@@ -549,29 +549,23 @@ autoUpdater.on('update-downloaded', info => {
     autoUpdater.quitAndInstall();
 })
 
-// discord
-async function setActivity() {
-  try {
-    console.log("[ discord ]: Discord RPC updated!");
+let startTimestamp = new Date();
 
-    client.updatePresence({
-      details: 'Iniciando o jogo no ESXBrasil!',
-      largeImageKey: 'logo',
-      largeImageText: 'Launcher ESXBrasil',
-      smallImageKey: 'online',
-      smallImageText: 'Connected!',
-      state: 'Server ESXBrasilRP',
-      instance: false
-    });
-  } catch (e) {
-    console.error("[ discord ]:", e);
-  }
-}
+// discordClient
 client.on('connected', () => {
-  setActivity();
+
+  details = 'Entrando no servidor...';
 
   setInterval(() => {
-    setActivity();
+    client.updatePresence({
+      details: details,
+      startTimestamp,
+      largeImageKey: 'logo',
+      largeImageText: 'Launcher ESXBrasil',
+      state: 'Server ESXBrasilRP',
+      instance: true
+    });
   }, 15e3);
+
 });
 
