@@ -410,26 +410,23 @@
                         </button>
                     </div>
                     <div class="modal-body">
-                      <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="GXQZHUA4VGALW">
+                        
+                        <form method="POST" action="https://www.paypal.com/cgi-bin/webscr">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="GXQZHUA4VGALW">
                             <div class="form-group">
-                                <input type="text" class="form-control" name="your-name" placeholder="Seu nome">
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" name="your-email" placeholder="Seu Email">
-                            </div>
-                            <div class="form-group">
-                              <input type="hidden" name="on0" value="Launcher ESXBrasil">
-                              <select name="os0" id="ticket-type" class="form-control">
-<option value="Acesso padrão">Acesso padrão R$15,00</option>
-<option value="Acesso Pro">Acesso Pro R$25,00</option>
-<option value="Acesso Premium">Acesso Premium R$35,00</option>
-</select>
+                            <input type="hidden" name="on0" value="Launcher ESXBrasil">
+                            <select name="os0" id="ticket-type" class="form-control">
+                                <option value="Acesso padrão">Acesso padrão R$15,00</option>
+                                <option value="Acesso Pro">Acesso Pro R$25,00</option>
+                                <option value="Acesso Premium">Acesso Premium R$35,00</option>
+                            </select>
                             </div>
                             <div class="text-center">
-                              <input type="hidden" name="currency_code" value="BRL">
-<button type="submit" class="btn">Pagar agora!</button>
+                            <input type="hidden" name="currency_code" value="BRL">
+                            <input type="image" src="https://www.paypalobjects.com/pt_BR/i/btn/btn_cart_LG.gif" border="0" name="submit"
+                                alt="PayPal - A maneira fácil e segura de enviar pagamentos online!">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
                             </div>
                         </form>
                     </div>
