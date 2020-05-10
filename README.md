@@ -112,6 +112,11 @@ token: 00000000000000000 // aqui sua token do github seu. link: https://github.c
 updaterCacheDirName: esxbrasil-launcher //coloque o nome do update mude somente o esxbrasil para o seu nao tire o -launcher
 ```
 <br>
+
+### Virus Total
+
+- [Launcher ESXBrasil](https://www.virustotal.com/gui/url/ff2acc662eb259625dca24246d67c7b4220a3e3f9adf95bf2763a7268bdb6354/detection)
+
 Nesta versão não foi adicionado sistema de anti-cheat.<br>
 
 Faça Download da Versão de testa<br>
