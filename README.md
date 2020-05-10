@@ -74,6 +74,7 @@ Visual Studio Code : https://code.visualstudio.com/download<br>
   "dependencies": {
     "bootstrap": "^4.4.1",
     "child_process": "^1.0.2",
+    "discord-rich-presence": "0.0.8",
     "electron-dl": "^3.0.0",
     "electron-is-dev": "^1.2.0",
     "electron-log": "^4.1.2",

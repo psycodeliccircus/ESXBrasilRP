@@ -5,7 +5,7 @@ Developer/s: RenildoMarcio
 All Reserve Rights ESXBrasil 2020 - 2021
 */
 
-const {app, BrowserWindow, dialog, shell, clipboard, Menu, Tray} = require("electron")
+const {app, BrowserWindow, dialog, shell, clipboard, Menu, Tray, session} = require("electron")
 const {download} = require("electron-dl")
 const {autoUpdater} = require('electron-updater')
 const log = require('electron-log')
@@ -19,6 +19,10 @@ var fs = require('fs')
 var randomString = require("randomstring")
 var tcpProxy = require("node-tcp-proxy")
 var udpProxy = require('udp-proxy')
+
+// DiscordModules
+const client = require('discord-rich-presence')('708901957690982430')
+
 
 var rConnected = null
 var rServers = []
@@ -544,3 +548,30 @@ autoUpdater.on('update-downloaded', info => {
     });`)
     autoUpdater.quitAndInstall();
 })
+
+// discord
+async function setActivity() {
+  try {
+    console.log("[ discord ]: Discord RPC updated!");
+
+    client.updatePresence({
+      details: 'Iniciando o jogo no ESXBrasil!',
+      largeImageKey: 'logo',
+      largeImageText: 'Launcher ESXBrasil',
+      smallImageKey: 'online',
+      smallImageText: 'Connected!',
+      state: 'Server ESXBrasilRP',
+      instance: false
+    });
+  } catch (e) {
+    console.error("[ discord ]:", e);
+  }
+}
+client.on('connected', () => {
+  setActivity();
+
+  setInterval(() => {
+    setActivity();
+  }, 15e3);
+});
+
