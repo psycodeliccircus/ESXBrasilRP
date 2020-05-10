@@ -77,6 +77,7 @@ Visual Studio Code : https://code.visualstudio.com/download<br>
     "electron-dl": "^3.0.0",
     "electron-is-dev": "^1.2.0",
     "electron-log": "^4.1.2",
+    "electron-reload": "^1.5.0",
     "electron-updater": "^4.3.1",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",

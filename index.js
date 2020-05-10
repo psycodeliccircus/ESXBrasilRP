@@ -5,7 +5,7 @@ Developer/s: RenildoMarcio
 All Reserve Rights ESXBrasil 2020 - 2021
 */
 
-const {app, BrowserWindow, dialog, shell, clipboard} = require("electron")
+const {app, BrowserWindow, dialog, shell, clipboard, Menu, Tray} = require("electron")
 const {download} = require("electron-dl")
 const {autoUpdater} = require('electron-updater')
 const log = require('electron-log')
@@ -43,6 +43,8 @@ const isRunning = (query, cb) => {
         cb(stdout.toLowerCase().indexOf(query.toLowerCase()) > -1);
     });
 }
+
+require('electron-reload')(__dirname);
 
 if (!gotTheLock) {
     app.quit()
@@ -443,10 +445,23 @@ function startBootstrapApp () {
 
     mainWindow.loadFile('assets/gui/launcher.html', {userAgent: 'ESXBrasil Launcher'})
 
+    appTray = new Tray(__dirname + '/assets/img/icon.ico');
+    appTray.setToolTip("ESXBrasilRP")
+    const contextMenu = Menu.buildFromTemplate([
+        { label: 'ESXBrasilRP v' + app.getVersion() },
+        { type: 'separator' },
+        { label: 'Discord', click() { shell.openExternal('https://discord.gg/ZGXTsdN'); } },
+        { type: 'separator' },
+        { label: 'Sair do Launcher', click() { app.quit() } },
+    ])
+    appTray.setContextMenu(contextMenu)
     mainWindow.webContents.once('dom-ready', () => {
-        log.info('Bootstrap window is ready.');
+        log.info('Bootstrap window is ready.')
         mainWindow.show()
         autoUpdater.checkForUpdates()
+        appTray.on('click', () => {
+            mainWindow.isVisible() ? mainWindow.hide() : mainWindow.show()
+        })
     })
 
 }
