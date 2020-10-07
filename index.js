@@ -1,7 +1,7 @@
 /*
 Project Name: ESXBrasil Launcher (esxbrasil.online)
 Language Used: NodeJS
-Developer/s: RenildoMarcio
+Developer/s: RenildoMarcio.
 All Reserve Rights ESXBrasil 2020 - 2021
 */
 
@@ -60,7 +60,7 @@ if (!gotTheLock) {
 				if (mainWindow.isMinimized()) {
                     mainWindow.restore()
                     mainWindow.show()
-                } 
+                }
 				mainWindow.focus()
 			}
 		}
@@ -78,7 +78,7 @@ function shuffle(array) {
     }
     return array
 }
-  
+
 
 function preRequirementsCheck() {
     log.info("Checking system requirements.")
@@ -351,7 +351,7 @@ function isFiveMStillRunning () {
                 rConnected = null
                 mainWindow.webContents.executeJavaScript(`player.playVideo();`)
             } else {
-                setTimeout(function() { 
+                setTimeout(function() {
                     isFiveMStillRunning()
                  }, 5000)
             }
@@ -383,7 +383,7 @@ function clientStartRProxy() {
         mainWindow.webContents.executeJavaScript(`player.pauseVideo();`)
         isRunning('FiveM_GTAProcess.exe', (status) => {
             if (status != true) {
-                setTimeout(function() { 
+                setTimeout(function() {
                     isFiveMStillRunning()
                 }, 30000)
                 shell.openExternal("fivem://connect/localhost:"+rPort)
@@ -399,11 +399,11 @@ function clientStartRProxy() {
     localUDPServer.on('proxyClose', function (peer) {
         log.log('disconnecting socket from ' + peer.address);
     });
-     
+
     localUDPServer.on('proxyError', function (err) {
         log.log('ProxyError! ' + err);
     });
-     
+
     localUDPServer.on('error', function (err) {
         log.log('Error! ' + err);
     });
@@ -430,8 +430,8 @@ function startBootstrapApp () {
             nodeIntegration: true
 		}
     })
-    
-    mainWindow.webContents.on("devtools-opened", () => { 
+
+    mainWindow.webContents.on("devtools-opened", () => {
         if (!isUserDeveloper) {
             mainWindow.webContents.closeDevTools();
         }
@@ -443,7 +443,7 @@ function startBootstrapApp () {
         shell.openExternal(url)
     })
 
-    mainWindow.webContents.on("closed", () => { 
+    mainWindow.webContents.on("closed", () => {
         app.quit()
     })
 
@@ -568,4 +568,3 @@ client.on('connected', () => {
   }, 15e3);
 
 });
-
