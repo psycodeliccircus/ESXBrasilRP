@@ -21,7 +21,7 @@ var tcpProxy = require("node-tcp-proxy")
 var udpProxy = require('udp-proxy')
 
 // DiscordModules
-const client = require('discord-rich-presence')('708901957690982430')
+const client = require('discord-rich-presence')('798575083424972871')
 
 
 var rConnected = null
@@ -560,7 +560,7 @@ client.on('connected', () => {
     client.updatePresence({
       details: details,
       startTimestamp,
-      largeImageKey: 'logo',
+      largeImageKey: 'asdasdg',
       largeImageText: 'Launcher ESXBrasil',
       state: 'Server ESXBrasilRP',
       instance: true
